@@ -7,7 +7,7 @@
 </br>
 
 <div align="center">
-  <p>🔭 I’m currently working on my portfolio</p>
+  <p>🔭 I’m currently working on my Portfolio Website (React, Next.js, Typescript, Tailwind CSS, Framer Motion) </p>
   <p>🌱 I'm currently learning React Native Expo</p>
 </div>
 
@@ -21,7 +21,7 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h2>
 
 <br/>
 
