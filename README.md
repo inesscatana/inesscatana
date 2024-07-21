@@ -1,4 +1,4 @@
-<h1 align="center">
+CH<h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+In%C3%AAs+Catana!+🥷🏼;"/>
   </a>
@@ -7,8 +7,9 @@
 </br>
 
 <div align="center">
-  <p>🔭 I’m currently working on my Portfolio Website (React, Next.js, Typescript, Tailwind CSS, Framer Motion) </p>
-  <p>🌱 I'm currently learning React Native Expo</p>
+ <p>🔭 I’m working on my portfolio website with React, Next.js, TypeScript, Tailwind CSS, and Framer Motion, and 🌱 I'm becoming a React Native enthusiast.</p>
+
+ <p>⚡ Fun fact: Tired of North Korean films being box office flops, Kim Jong-il, a dictator with a flair for drama, went full Hollywood. In 1978, he kidnapped top South Korean director Shin Sang-ok and his actress ex-wife Choi Eun-hee, forcing them to make films in North Korea. When hiring talent becomes literal kidnapping, you know the stakes are high!</p>
 </div>
 
 <br/>
