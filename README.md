@@ -7,8 +7,8 @@
 </br>
 
 <div align="center">
- <p>🔭 I’m working on my portfolio website with React, Next.js, TypeScript, Tailwind CSS, and Framer Motion.</p>
- <p>🌱 Becoming a React Native enthusiast.</p>
+ <p>🔭 I’m working on my portfolio website with React 19, Next.js 16, TypeScript, Tailwind CSS, Sanity CMS, Clerk, Framer Motion and OpenAI’s AgentKit & ChatKit.</p>
+ <p>🌱 Exploring React Native and cross-platform architecture.</p>
 <br/>
 </div>
 
